@@ -11,3 +11,6 @@ This page presents an interactive overview of carbon emissions by sector. Using 
 "**# Week-3 – Power BI**"
 Region-Wise Emissions Overview
 The third page focuses on analyzing carbon emissions by country or region. A Filled Map visualization is used to display geographic patterns in carbon output, allowing users to visually identify high-emission areas. A Stacked Area Chart is also included to show trends over time, highlighting how emissions have changed across countries or continents. This page supports regional analysis and helps in understanding which parts of the world contribute most to carbon emissions, aiding in targeted sustainability strategies.
+![1](https://github.com/user-attachments/assets/e4256d72-c522-4995-8d90-e1a0ae676b86)
+![2](https://github.com/user-attachments/assets/5cf141a4-c669-4b16-bb37-0b6ba05e1f9d)
+![3](https://github.com/user-attachments/assets/5a0e8496-5a40-4be5-aa42-59a182f42b51)
